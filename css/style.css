@@ -37,6 +37,10 @@ h2{
     margin-top: 300px;
 
 }
+a:hover{
+    background-image: linear-gradient(rgb(0, 0, 0),rgb(88, 175, 88));
+    color: orange;
+}
 
 /* second class start */
 
